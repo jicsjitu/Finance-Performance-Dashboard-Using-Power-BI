@@ -1,7 +1,7 @@
-# 📊 **Financial Performance Dashboard Using Power BI**
+# 📊 **Finance Performance Dashboard Using Power BI**
 
 ### 🚀 **Overview**
-This project involves creating an interactive **Financial Dashboard** in Power BI to analyze key metrics such as **sales**, **profit**, and **discount trends**. The dashboard consists of **three detailed reports** designed to provide actionable insights for driving business decisions and improving profitability.
+This project involves creating an interactive **Finance Dashboard** in Power BI to analyze key metrics such as **sales**, **profit**, and **discount trends**. The dashboard consists of **three detailed reports** designed to provide actionable insights for driving business decisions and improving profitability.
 
 ---
 
